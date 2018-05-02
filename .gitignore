@@ -1,6 +1,6 @@
 
-LogFileWatcher/bin/Debug/
+LogFileWatcher/bin
 
-LogFileWatcher/obj/Debug/
+LogFileWatcher/obj
 
 \.vs/
